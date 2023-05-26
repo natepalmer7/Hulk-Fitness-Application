@@ -1,24 +1,10 @@
 # Hulk
 Fitness App for CSPB 3308
 
-### Project Title: Project Hulk
-
-### Team Number: 2
-
-### Team Name: Team Batman
+### Project Title: Hulk Fitness Application
 
 ### Team members: 
 <ul>
-  <li>Adam McWilliams</li>
-    <ul>
-      <li>Email: admc1043@colorado.edu</li>
-      <li>Git: adamjmcwilliams</li>
-    </ul>
-  <li>Nathan Palmer</li>
-    <ul>
-        <li>Email: napa8745@colorado.edu</li>
-        <li>Git: natepalmer7</li>
-    </ul>
   <li>Danielle Aras</li>
     <ul>
         <li>Email: daar8381@colorado.edu</li>
@@ -33,6 +19,16 @@ Fitness App for CSPB 3308
     <ul>
         <li>Email: alcu6962@colorado.edu</li>
         <li>Git: anonalyx</li>
+    </ul>
+   <li>Adam McWilliams</li>
+    <ul>
+      <li>Email: admc1043@colorado.edu</li>
+      <li>Git: adamjmcwilliams</li>
+    </ul>
+  <li>Nathan Palmer</li>
+    <ul>
+        <li>Email: napa8745@colorado.edu</li>
+        <li>Git: natepalmer7</li>
     </ul>
   </ul>
 
