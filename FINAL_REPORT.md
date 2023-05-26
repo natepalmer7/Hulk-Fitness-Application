@@ -1,9 +1,5 @@
 # Final Status Report
-### Project Title: Project Hulk
-
-### Team Number: 2
-
-### Team Name: Team Batman
+### Project Title: Hulk Fitness Application
 
 ### Team Members: 
 <ul>
