@@ -1,0 +1,5 @@
+INSERT INTO test_equipment Values
+(0, 'None'),
+(1, 'Dumbbells'),
+(2, 'Single Dumbbell'),
+(3, 'Body Weight');

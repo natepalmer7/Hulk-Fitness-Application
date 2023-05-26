@@ -1,0 +1,32 @@
+{% from "macros/table_macros.html" import render_search_table %}
+
+{% extends "navbar.html" %}
+{% block title %}Hulk - Search{% endblock %}
+{% block head %}
+    <script src="../static/js/search.js"></script>
+    <link rel="stylesheet" type="text/css" href="../static/css/search.css">
+{% endblock %}
+{% block content %}
+
+    <div id="prompt">
+        Search for Excercises
+    </div>
+    <div class="container table-container">
+        <div class="row justify-content-center align-items-center">
+
+            <div class="col d-flex justify-content-center">
+                {{ render_search_table(data["body_data"], "Body Part", "body-table-rows") }}
+            </div>
+
+            <div class="col d-flex justify-content-center">
+                {{ render_search_table(data["equipment_data"], "Equipment", "equipment-table-rows") }}
+            </div>
+            
+        </div>
+    </div>
+
+    <div class="button-container">
+        <button type="submit" class="btn" id="search-button" disabled="True">Search</button>
+    </div>
+
+{% endblock %}
